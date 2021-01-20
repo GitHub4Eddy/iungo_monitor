@@ -1,9 +1,9 @@
 # iungo_monitor
-This Quickapp retrieves power consumption, power production and gas usage from the (Iungo Monitor) energy and gas meter 
-All power consumption of all HomeCenter devices is summerized
-The difference between the total power consumption and the power consumption of the HomeCenter devices is put in a unused device (unless the powerID = 0 or empty)
-In the QuickApp labels power consumption, power production and gas usage is shown 
-The net consumption is also shown in de log (under the icon)
+This Quickapp retrieves power consumption, power production and gas usage from the (Iungo Monitor) energy and gas meter. 
+All power consumption of all HomeCenter devices is summerized. 
+The difference between the total power consumption and the power consumption of the HomeCenter devices is put in a unused device (unless the powerID = 0 or empty). 
+In the QuickApp labels power consumption, power production and gas usage is shown. 
+The net consumption is also shown in de log (under the icon). 
 
 
 Version 0.4 (20th January 2021)
