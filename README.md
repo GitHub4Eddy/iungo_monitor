@@ -6,6 +6,9 @@ In the QuickApp labels power consumption, power production and gas usage is show
 The net consumption is also shown in de log (under the icon). 
 
 
+Version 0.6 (22nd January 2021)
+- Now also supports Iungo basic version
+
 Version 0.5 (21 January 2021)
 - Initial version
 
