@@ -1,6 +1,6 @@
 # iungo_monitor
 
-This Quickapp retrieves power consumption, solar production, gas usage and water flow from the Iungo Monitor, Solarpanel and Watermeter
+This Quickapp (for the Fibaro Homecenter 3) retrieves power consumption, solar production, gas usage and water flow from the Iungo Monitor, Solarpanel and Watermeter
 
 (Child) Devices for Net Consumption, House Consumption, Solar Production, Solar Power, Water Flow, Consumption High, Consumption Low, Production High, Production Low, Total Gas and Total Water FLow
 
