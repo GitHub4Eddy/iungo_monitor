@@ -1,6 +1,6 @@
 -- Iungo Monitor main
 
-local version = '2.0 release candidate'
+local version = '2.0'
 
 local function getChildVariable(child,varName)
   for _,v in ipairs(child.properties.quickAppVariables or {}) do
